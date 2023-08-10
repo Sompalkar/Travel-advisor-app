@@ -9,7 +9,7 @@
  I have deployed this project Using netlify.
 Travel-advisor [LiveDemo ](https://travel-advisor-som.netlify.app/).
 
-### `Travel Advisor `
+### `Travel Advisor`
 
 # Getting Started with Create React App
 
