@@ -12,7 +12,7 @@ import Home from "./Page/Home";
 const App = () => {
   return (
 
-    // Routing in different pages 
+    // Routing in different  pages 
     <Router>
       <Routes>
         <Route path="/" element={<Home />}></Route>
