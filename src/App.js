@@ -13,7 +13,7 @@ const App = () => {
   return (
 
     // Routing in different pages 
-    <Router>
+    <Router> 
       <Routes>
         <Route path="/" element={<Home />}></Route>
         <Route path="/Map/:id" element={<MapPage />}></Route>
