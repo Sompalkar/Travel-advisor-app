@@ -2,7 +2,7 @@
 # Travel-advisor app 
  This is project built using Rapidapi.com 
  And Google maps react.
-
+ 
  Somnath Palkar [GitHub](https://github.com/Sompalkar).
  You can check this out.
 
